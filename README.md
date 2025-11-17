@@ -20,8 +20,8 @@ I study **information processing across political, economic, and cultural system
   - Examining FATE (Fairness, Accuracy, Transparency, Explainability) in social applications
 
 **AI Governance & Policy**
-- **AgenticSimLaw**: Computational approaches to AI alignment and policy simulation
-- **Linguistic Hacking**: Security vulnerabilities in large language models
+- **Agentic**: Computational approaches to AI alignment and policy simulation
+- **Hacking**: Security vulnerabilities in large language models
 - **NIST AI Safety Institute**: Federal AI safety frameworks (Principal Investigator, representing MLA)
 
 **Cultural & Political Analysis**
