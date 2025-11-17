@@ -30,12 +30,6 @@ I study **information processing across political, economic, and cultural system
 - **Hyperpersuasion**: Evaluating hyperpersuasion in models
 - **Emotional Architecture**: Information processing in narrative, media, and social systems
 
-### Papers Under Review
-
-- "Linguistic Hacking" - LLM security vulnerabilities and social engineering risks
-- "The Alignment Paradox" - AI safety frameworks across technical and social domains
-- "AgenticSimLaw" - Computational approaches to policy alignment
-
 ---
 
 ## 📊 Research Impact & Methods
