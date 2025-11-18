@@ -9,7 +9,7 @@ Principal Investigator @NIST US AI Safety Institute (representing Modern Languag
 
 ## 🔬 Research Focus
 
-I study **information processing across political, economic, and cultural systems**—investigating how information flows shape human behavior, social outcomes, and institutional decision-making. My work combines computational methods with interpretive depth, bridging social science and humanities to tackle questions about AI governance, behavioral prediction, and cultural influence.
+I study **information processing across political and cultural systems**—investigating how information flows shape human behavior, social outcomes, and institutional decision-making. My work combines computational methods with interpretive depth, bridging social science and humanities to tackle questions about AI governance, behavioral prediction, and cultural influence.
 
 ### Recent Projects
 
