@@ -8,7 +8,7 @@ My research focuses on where language models break down--how they mishandle nega
 **Current work:**
 - LLM evaluation for the NIST AI Safety Institute Consortium (representing the Modern Language Association)
 - [Archival Intelligence](https://archivalintelligenceai.org): AI tools for endangered archives in New Orleans (Schmidt Sciences HAVI)
-- [SentimentArcs](https://github.com/KatherineElkins/sentimentarcs_notebooks): computational methodology for emotional arc in narrative (95,000+ downloads, 198 countries)
+- [SentimentArcs](https://github.com/KatherineElkins/sentimentarcs_notebooks): computational methodology for emotional arc in narrative
 - Multi-agent behavioral simulation for high-stakes decision-making
 
 **Links:**
