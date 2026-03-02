@@ -1,7 +1,7 @@
 # Katherine Elkins
 
 
-I am an safety researcher and Co-Founder of the Human-Centered AI Lab, a PI representing the MLA in the NIST AI Safety Institute Consortium, and a PI for a Schmidt Sciences HAVI grant building open-access AI tools for endangered cultural archives.
+I am an AI safety researcher and Co-Founder of the Human-Centered AI Lab, a PI representing the MLA in the NIST AI Safety Institute Consortium, and a PI for a Schmidt Sciences HAVI grant building open-access AI tools for endangered cultural archives.
 
 My research focuses on where language models break down--how they mishandle negation, respond to emotional manipulation, and fail at the kinds of prohibition and persuasion humans navigate every day. I build computational tools to find and measure these failures.
 
